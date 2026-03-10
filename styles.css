@@ -274,7 +274,7 @@
       font-size: 0.8rem;  /* ← add this line */
       color: var(--soft);
       line-height: 1.7;
-      margin-bottom: 20px;
+      margin-bottom: 8px;
     }
 
     .contact-btn {
@@ -398,3 +398,4 @@
       .headline-serif { font-size: 3.8rem; }
       .headline-italic { font-size: 3.8rem; }
     }
+
