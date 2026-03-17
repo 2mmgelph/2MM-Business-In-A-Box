@@ -224,14 +224,14 @@
       font-family: 'DM Serif Display', serif;
       font-size: 1.05rem;
       font-weight: 700;
-      color: var(--cyan);
+      color: var(--soft);
       margin-bottom: 4px;
     }
 
     .card-desc {
       font-family: 'DM Sans', sans-serif;
       font-weight: 300;
-      color: var(--cyan);
+      color: var(--soft);
       line-height: 1.45;
     }
 
