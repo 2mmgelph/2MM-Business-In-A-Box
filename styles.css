@@ -213,7 +213,7 @@
     .card-body { flex: 1; }
 
     .card-title {
-      font-family: 'DM Serif Display', serif;
+      font-family: 'DM Sans', serif;
       font-size: 1.05rem;
       font-weight: 700;
       color: var(--cyan-dark);
